@@ -1,5 +1,6 @@
 import java.util.Set;
 
+import controllers.ContactoController;
 import controllers.Sets;
 
 public class App {
@@ -7,7 +8,7 @@ public class App {
         Sets sets = new Sets();
 
         System.out.println("Felipe Parra");
-        runHashSet(sets);
+       /* runHashSet(sets);
         System.out.println();
         runLinkedHashSet(sets);
         System.out.println();
@@ -15,7 +16,9 @@ public class App {
         System.out.println();
         runTreeSetConComparador(sets);
         System.out.println();
-        runTreeSetConComparador2(sets);
+        runTreeSetConComparador2(sets);*/
+
+        ContactoController c = new ContactoController();
         
 
     }

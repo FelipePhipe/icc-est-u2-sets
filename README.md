@@ -42,3 +42,6 @@ Para ejecutar el proyecto:
 ## 🧑‍💻 Ejemplo de Entrada
 
 [Sets]![alt text](image.png)
+
+
+[Sets ordenados por diferentes condiciones]![alt text](image-1.png)
