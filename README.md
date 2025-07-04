@@ -45,3 +45,5 @@ Para ejecutar el proyecto:
 
 
 [Sets ordenados por diferentes condiciones]![alt text](image-1.png)
+
+[Ejercicios sets]![alt text](image-2.png)
